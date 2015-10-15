@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="858" measuredH="436" mockupW="450" mockupH="400">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="408" y="36" w="-1" h="-1" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>NEXUS%0Ahttps%3A//</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="423" y="153" w="420" h="235" measuredW="200" measuredH="178" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>3</selectedIndex>
+        <text>Inventario%20de%20mercader%EDa%0AReportes%0ATrazabilidad%0AAnuncios</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ComboBox" x="589" y="194" w="-1" h="-1" measuredW="84" measuredH="23" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Provincia</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ComboBox" x="688" y="194" w="83" h="-1" measuredW="71" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ciudad</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="589" y="225" w="-1" h="-1" measuredW="81" measuredH="23" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Domicilio</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::BreadCrumbs" x="425" y="124" w="-1" h="-1" measuredW="171" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>NEXUS%2C%20Home%2C%20Anuncios</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="591" y="167" w="-1" h="-1" measuredW="167" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Seleccionar%20clientes%20destino</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::CheckBox" x="688" y="225" w="-1" h="-1" measuredW="101" measuredH="22" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Marcar%20todos</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextArea" x="588" y="251" w="249" h="63" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mensaje%20a%20enviar</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::HelpButton" x="826" y="116" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="758" y="329" w="-1" h="-1" measuredW="71" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ENVIAR</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="659" y="329" w="-1" h="-1" measuredW="93" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CANCELAR</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
